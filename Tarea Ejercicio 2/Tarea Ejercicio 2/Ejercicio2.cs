@@ -51,6 +51,7 @@ namespace Tarea_Ejercicio_2
             IngresartextBox3.Clear();
             IngresartextBox4.Clear();
             CondiciontextBox1.Clear();
+            PromediotextBox1.Clear();
             IngresartextBox1.Focus();
         }
     }
