@@ -50,7 +50,7 @@ namespace Tarea_Ejercicio_2
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(166, 49);
+            this.label1.Location = new System.Drawing.Point(107, 42);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(308, 20);
             this.label1.TabIndex = 0;
@@ -59,7 +59,7 @@ namespace Tarea_Ejercicio_2
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(115, 126);
+            this.label2.Location = new System.Drawing.Point(56, 119);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(81, 13);
             this.label2.TabIndex = 1;
@@ -68,7 +68,7 @@ namespace Tarea_Ejercicio_2
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(115, 165);
+            this.label3.Location = new System.Drawing.Point(56, 158);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(81, 13);
             this.label3.TabIndex = 2;
@@ -77,7 +77,7 @@ namespace Tarea_Ejercicio_2
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(115, 206);
+            this.label4.Location = new System.Drawing.Point(56, 199);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(81, 13);
             this.label4.TabIndex = 3;
@@ -86,7 +86,7 @@ namespace Tarea_Ejercicio_2
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(115, 246);
+            this.label5.Location = new System.Drawing.Point(56, 239);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(81, 13);
             this.label5.TabIndex = 4;
@@ -94,35 +94,35 @@ namespace Tarea_Ejercicio_2
             // 
             // IngresartextBox1
             // 
-            this.IngresartextBox1.Location = new System.Drawing.Point(233, 119);
+            this.IngresartextBox1.Location = new System.Drawing.Point(174, 112);
             this.IngresartextBox1.Name = "IngresartextBox1";
             this.IngresartextBox1.Size = new System.Drawing.Size(100, 20);
             this.IngresartextBox1.TabIndex = 5;
             // 
             // IngresartextBox2
             // 
-            this.IngresartextBox2.Location = new System.Drawing.Point(233, 158);
+            this.IngresartextBox2.Location = new System.Drawing.Point(174, 151);
             this.IngresartextBox2.Name = "IngresartextBox2";
             this.IngresartextBox2.Size = new System.Drawing.Size(100, 20);
             this.IngresartextBox2.TabIndex = 6;
             // 
             // IngresartextBox3
             // 
-            this.IngresartextBox3.Location = new System.Drawing.Point(233, 199);
+            this.IngresartextBox3.Location = new System.Drawing.Point(174, 192);
             this.IngresartextBox3.Name = "IngresartextBox3";
             this.IngresartextBox3.Size = new System.Drawing.Size(100, 20);
             this.IngresartextBox3.TabIndex = 7;
             // 
             // IngresartextBox4
             // 
-            this.IngresartextBox4.Location = new System.Drawing.Point(233, 239);
+            this.IngresartextBox4.Location = new System.Drawing.Point(174, 232);
             this.IngresartextBox4.Name = "IngresartextBox4";
             this.IngresartextBox4.Size = new System.Drawing.Size(100, 20);
             this.IngresartextBox4.TabIndex = 8;
             // 
             // Calcularbutton1
             // 
-            this.Calcularbutton1.Location = new System.Drawing.Point(258, 300);
+            this.Calcularbutton1.Location = new System.Drawing.Point(305, 284);
             this.Calcularbutton1.Name = "Calcularbutton1";
             this.Calcularbutton1.Size = new System.Drawing.Size(75, 23);
             this.Calcularbutton1.TabIndex = 9;
@@ -133,7 +133,7 @@ namespace Tarea_Ejercicio_2
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(167, 359);
+            this.label6.Location = new System.Drawing.Point(96, 340);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(54, 13);
             this.label6.TabIndex = 10;
@@ -141,14 +141,14 @@ namespace Tarea_Ejercicio_2
             // 
             // PromediotextBox1
             // 
-            this.PromediotextBox1.Location = new System.Drawing.Point(245, 352);
+            this.PromediotextBox1.Location = new System.Drawing.Point(174, 333);
             this.PromediotextBox1.Name = "PromediotextBox1";
             this.PromediotextBox1.Size = new System.Drawing.Size(100, 20);
             this.PromediotextBox1.TabIndex = 11;
             // 
             // Limpiarbutton1
             // 
-            this.Limpiarbutton1.Location = new System.Drawing.Point(384, 300);
+            this.Limpiarbutton1.Location = new System.Drawing.Point(411, 284);
             this.Limpiarbutton1.Name = "Limpiarbutton1";
             this.Limpiarbutton1.Size = new System.Drawing.Size(75, 23);
             this.Limpiarbutton1.TabIndex = 12;
@@ -159,7 +159,7 @@ namespace Tarea_Ejercicio_2
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(164, 408);
+            this.label7.Location = new System.Drawing.Point(93, 376);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(57, 13);
             this.label7.TabIndex = 13;
@@ -167,7 +167,7 @@ namespace Tarea_Ejercicio_2
             // 
             // CondiciontextBox1
             // 
-            this.CondiciontextBox1.Location = new System.Drawing.Point(245, 408);
+            this.CondiciontextBox1.Location = new System.Drawing.Point(174, 376);
             this.CondiciontextBox1.Name = "CondiciontextBox1";
             this.CondiciontextBox1.Size = new System.Drawing.Size(100, 20);
             this.CondiciontextBox1.TabIndex = 14;
@@ -176,7 +176,7 @@ namespace Tarea_Ejercicio_2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(516, 454);
             this.Controls.Add(this.CondiciontextBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.Limpiarbutton1);
