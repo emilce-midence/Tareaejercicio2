@@ -35,7 +35,7 @@ namespace Tarea_Ejercicio_2
                 PromediotextBox1.Text = promedio.ToString();
                 CondiciontextBox1.Text = condicion;
             }
-            else if (promedio > 65 && promedio <= 100)
+            else if (promedio >= 65 && promedio <= 100)
             {
                 condicion = "APROBADO";
                 PromediotextBox1.Text = promedio.ToString();
